@@ -1,4 +1,4 @@
-#Ajout de commentaire pour le commit
+# Adding commentaries
 
 from django.conf.urls import url
 from . import views
